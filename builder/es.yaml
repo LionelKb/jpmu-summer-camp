@@ -1,0 +1,43 @@
+---
+## ------------------------------------------ ##
+# Menu
+home: "Acogida"
+guests: "Invitados"
+schedule: "El Programa"
+gallery: "Gallería"
+participation: "Participar"
+contact: "Contacto"
+
+# Wrapper
+headTitle: "Congreso Gen 2016"
+mainTitle: "CONGRESO INTERNACIONAL GEN 2"
+eventDate: "17 - 20 Noviembre 2016"
+eventLocation: "Castel Gandolfo, Italia"
+registerNow: "Inscribirme"
+closingMessage: "Esperamos a tu respuesta con alegría!"
+
+# Event Description
+eventDescription: "Como lo saben, este año tendrá lugar el congreso Gen 2 internacional, chicos y chicas. Ocurrirá en el centro Mariapoli Castelgandolfo (congreso que se realiza cada 3 años). Es una muy buena oportunidad para reunirse, Gen2 del mundo, y vivir una experiencia Gen-Opera muy fuerte.  Nos parece maravilloso  poder realizar este momento todos juntos en el año en la cual el Opera profundiza la realidad de <i>'Jesús Abandonado</i>.  Recuérdense la palabras de Chiara <i>'Será la segunda generación que hará eco al grito de Jesús Abandonado a los extremos de la Tierra… Y en este grito el mundo entero tendrá esperanza.” '</i>"
+eventWillStartIn: "El congreso empieza en"
+
+# Countdown
+countDownDays: "Días"
+countDownHours: "Horas"
+countDownMinutes: "Minutos"
+countDownSeconds: "Segundas"
+
+countDownDay: "Días"
+countDownHour: "Horas"
+countDownMinute: "Minutos"
+countDownSecond: "Segundas"
+
+addToMyCalendar: "Añadir a mis eventos"
+calendarDescription: "Congreso Gen Internacional con Gen 2 chicos y chicas del mundo entero."
+
+# Special Guests
+specialGuests : "Invitados de honor"
+emmausTitle: "Presidente"
+
+# The Schedule
+theSchedule: "Nuestro Programa"
+Day: "Día"

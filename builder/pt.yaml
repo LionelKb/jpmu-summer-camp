@@ -1,0 +1,90 @@
+---
+## ------------------------------------------ ##
+home: "Início"
+guests: "Convidados"
+schedule: "Programa"
+gallery: "Galeria"
+participation: "Participação"
+contact: "Contato"
+
+# Wrapper
+headTitle: "Congresso Gen 2016"
+mainTitle: "CONGRESSO INTERNACIONAL GEN 2"
+eventDate: "17 - 20 Novembro 2016"
+eventLocation: "Castel Gandolfo, Itália"
+registerNow: "Inscreva-se"
+closingMessage: "Aguardemos ansiosos por sua inscrição!"
+
+# Event Description
+eventDescription: "Como vocês sabem, esse ano o <b>congresso Gen 2 será misto, com os e as Gen</b>. IO congresso será no Centro Mariápolis de Castelgandolfo (congresso que ocorre a cada três anos). Será uma ótima oportunidade de encontrar-se vindos de todos os cantos do mundo e de viver uma forte experiência Gen-Obra. Nós achamos incrível poder realizar esse momento todos juntos especialmente  neste ano em que toda a Obra aprofunda a realidade de <i>'Jesus Abandonado'</i>. Lembrem-se das palavras de Chiara <i>'Será a segunda geração que fará eco ao grito de Jesus Abandonado aos extremos da Terra... E nesse grito o mundo inteiro encontrará a esperança.'</i>"
+eventWillStartIn: "O congresso começa em"
+
+# Countdown
+countDownDays: "Dias"
+countDownHours: "Horas"
+countDownMinutes: "Minutos"
+countDownSeconds: "Segundos"
+
+countDownDay: "Dia"
+countDownHour: "Hora"
+countDownMinute: "Minuto"
+countDownSecond: "Segundo"
+
+addToMyCalendar: "Adicionar ao meu calendário"
+calendarDescription: "Congresso Gen Internacional com os e as gen de todo o mundo."
+
+# Special Guests
+specialGuests : "Convidados de honra"
+emmausTitle: "Presidente"
+
+# The Schedule
+theSchedule: "Programa"
+Day: "Dia"
+
+# And More ..
+andMoreTitle: "E mais..."
+
+# Chiara Price
+ChiaraPriceTitle: "Prêmio UNESCO de Educação pela paz atribuído a Chiara"
+ChiaraPriceMessage_1: "Para aqueles/aquelas que desejam, será possível participar do evento do 20º aniversário do prêmio de educação pela paz atribuído a Chiara na UNESCO em Paris."
+ChiaraPriceMessage_2: "A chegada em Paris será na noite de <strong>14 de novembro</strong>. Partida a Roma na noite de 15 de novembro ou durante o dia, em 16 de novembro."
+ChiaraPriceMessage_3: "Nós solicitamos que vocês nos informem o interesse dessa proposta, a fim de que nós possamos enviar-lhes maiores detalhes."
+
+# Post Congress School
+postCongressSchoolTitle: "Escola Pós-Congresso"
+postCongressSchoolMessage: "Após o congresso internacional, nós previmos uma escola gen 'volante' <strong>du 21 au 27 novembre</strong>. Maiores detalhes para a participação nessa escola abaixo."
+postCongressSchoolPrice_1: "Europa Ocidental/Central - Gen e Assistantes: € 391"
+postCongressSchoolPrice_2: "Europa Oriental/Outros continentes - Gen: € 371"
+postCongressSchoolPrice_3: "Europa Oriental/Outros continentes - Assistantes: € 376"
+
+regiterPostCongressSchool: "Inscreva-se"
+
+
+# Participation
+EasternEurope_1: "Europa Oriental/Outros continentes - Gen"
+EasternEurope_2: "Europe Oriental/Outros continentes - Assistantes"
+WesternEurope: "Europa Ocidental/Central - Gen e Assistantes"
+ParticipationMessage_1: "A viagem de ônibus a Roma, no dia 20 de novembro, custará 16€."
+ParticipationMessage_2: "Como Centro Gen, nós solicitamos uma contribuição de 10€ por pessoas das zonas da Europa Ocidental e de 5€ para pessoas das zonas da Europa Oriental, a ser entregue diretamente ao Ramiro ou ao Cris, do Centro Gen (não no Centro Mariápolis)"
+
+# FAQ
+faqTitle: "FAQ (Questões e respostas)"
+faqQuestion_1: "Como chegar no local do congresso?"
+faqAnswer_1: "Um mapa e os detalhes dos contatos podem ser encontrados na seção contato. Não hesitem em nos contatar."
+faqQuestion_2: "Como o alojamento será organizado?"
+faqAnswer_2: "O alojamento está incluso na taxa de inscrição. Nós agradecemos ao Centro Mariápolis, que nos acolherá durante toda a duração do congresso."
+faqQuestion_3: "O congresso será em que idioma?"
+faqAnswer_3: "Os idiomas 'oficiais' do congresso serão italiano e inglês. Nós pedimos a todos (inclusive os italianos) de trazer fones de ouvido para as traduções."
+faqQuestion_4: "Como são os procedimentos para os vistos de participantes que não são cidadãos ou residentes Europeus"
+faqAnswer_4: "Nós solicitamos que vocês nos enviem o mais breve possível as suas inscrições. É necessário pelo menos 2 meses para obter um visto."
+
+# Contact
+contactVenue: "CONTATO"
+
+# Address
+addressVenue: "ENDEREÇO"
+detailsArrival: "Chegada: 16 Nov à noite, antes das 22h00"
+
+# Invitation
+invitMessage_1: "VAMOS NOS ENCONTRAR! TODOS JUNTOS"
+invitMessage_2: "AGUARDAMOS VOCÊ"

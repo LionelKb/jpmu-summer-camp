@@ -1,0 +1,93 @@
+---
+## ------------------------------------------ ##
+# Menu
+home: "Home"
+guests: "Invitati"
+schedule: "Programma"
+gallery: "Foto"
+participation: "Partecipazione"
+contact: "Contatto"
+
+# Wrapper
+headTitle: "Congresso Gen 2016"
+mainTitle: "CONGRESSO GEN 2 INTERNAZIONALE"
+eventDate: "17 - 20 Novembre 2016"
+eventLocation: "Castel Gandolfo, Italia"
+registerNow: "Iscriviti"
+closingMessage: "Aspettiamo le vostre risposta con gioia!"
+
+# Event Description
+eventDescription: "Come sapete, quest’anno è in programma al Centro Mariapoli di Castelgandolfo il <g>Congresso gen 2 mondiale</g> (congresso che si realizza ogni 3 anni). Sarà una bellissima occasione per ritrovarci da tutto il mondo e vivere una <g>forte esperienza di gen-Opera</g>. Ci sembra bellissimo poter realizzare questo momento tutte/i insieme nell’anno nel quale in tutta l’Opera si approfondisce la realtà di ‘Gesù Abbandonato’. Ricordate le parole di Chiara <i>“Sarà la seconda generazione che farà riecheggiare il grido di Gesù Abbandonato fino agli ultimi confini della terra… Ed in quel grido il mondo intero rispererà.“</i>"
+eventWillStartIn: "Il congresso comincia fra"
+
+# Countdown
+countDownDays: "Giorni"
+countDownHours: "Ore"
+countDownMinutes: "Minuti"
+countDownSeconds: "Secondi"
+
+countDownDay: "Giorno"
+countDownHour: "Ora"
+countDownMinute: "Minuto"
+countDownSecond: "Secondo"
+
+addToMyCalendar: "Aggiungere al mio calendario"
+calendarDescription: "Congresso Gen internazionale con i gen e le gen del mondo intero."
+
+# Special Guests
+specialGuests : "Ospiti d'onore"
+emmausTitle: "Preside"
+
+# The Schedule
+theSchedule: "Programma"
+Day: "Giorno"
+
+# And More ..
+andMoreTitle: "Di più ..."
+
+# Chiara Price
+ChiaraPriceTitle: "Premio a Chiara Lubich per l'educazione alla pace"
+ChiaraPriceMessage_1: "È possibile partecipare, per chi lo desidera, all’evento all’<strong>UNESCO a Parigi</strong> per il 20°anniversario del premio a Chiara per l’educazione alla pace"
+ChiaraPriceMessage_2: "Si dovrebbe arrivare a Parigi il <strong>14 novembre 2016 sera</strong> e partire per Roma o il 15 sera o il 16 in giornata."
+ChiaraPriceMessage_3: "Vi preghiamo di farci sapere chi è interessato a questa proposta affinché possiamo mandarvi ulteriori dettagli."
+
+# Post Congress School
+postCongressSchoolTitle: "Scuola Post-Congresso"
+postCongressSchoolMessage: "Dopo il Congresso è in programma una scuola-itinerante <strong>dal 21 al 27 novembre</strong>. La partecipazione per questa scuola è spiegata qui di seguito."
+postCongressSchoolPrice_1: "Europa Ovest e centrale - Gen e assistenti: € 391"
+postCongressSchoolPrice_2: "Europa Est/Contin. extraeuropei - Gen: € 371"
+postCongressSchoolPrice_3: "Europa Est/Contin. extraeuropei - Assistenti € 376"
+
+regiterPostCongressSchool: "Iscriviti"
+
+
+
+# Participation
+EasternEurope_1: "Europa Est/Contin. extraeuropei - Gen"
+EasternEurope_2: "Europa Est/Contin. extraeuropei - Assistenti"
+WesternEurope: "Europe Ovest/Centrale - Gen e assistenti"
+ParticipationMessage_1: "Si aggiunge il viaggio a Roma (conclusione Anno Santo) con il pullman il 20 novembre che costerà € 16."
+ParticipationMessage_2: "Come Centri gen vi chiediamo una quota di partecipazione di € 10 a persona per le zone dell’Europa occidentale e € 5 per le zone dell’Europa orientale, da consegnare direttamente rispettivamente a Ramiro o a Cris dei Centri gen (non al Centro Mariapoli)."
+
+
+# FAQ
+faqTitle: "Domande più frequenti (FAQ)"
+faqQuestion_1: "Come arrivare al congresso?"
+faqAnswer_1: "La mappa e il dettaglio dei contatti si trovano nella sezione contatti. Non esitate a contattarci."
+faqQuestion_2: "Come è organizzato l'alloggio?"
+faqAnswer_2: "L'alloggio è incluso nei costi di partecipazione. Ringraziamo il Centro Mariapoli che ci accoglierà durante tutto il congresso."
+faqQuestion_3: "In che lingua si svolgerà il congresso?"
+faqAnswer_3: "Le lingue ‘ufficiali’ saranno l'italiano e l'inglese. Chiediamo a tutti (anche agli italiani) di portare degli auricolari."
+faqQuestion_4: "Come fare per i visti per i residenti non-europei?"
+faqAnswer_4: "Vi chiediamo di mandarci il più presto possibile la vostra iscrizione completa. Ci vogliono almeno due mesi per ottenere il visto."
+
+# Contact
+contactVenue: "CONTATTI"
+
+# Address
+addressVenue: "INDIRIZZO"
+detailsArrival: "Arrivo: 16 Novembre sera, prima delle 22:00"
+
+# Invitation
+invitMessage_1: "INCONTRIAMOCI TUTTI INSIEME"
+invitMessage_2: "TI ASPETTIAMO"

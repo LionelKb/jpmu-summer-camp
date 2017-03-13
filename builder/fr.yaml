@@ -1,0 +1,93 @@
+---
+## ------------------------------------------ ##
+# Menu
+home: "Accueil"
+guests: "Invités"
+schedule: "Programme"
+gallery: "Gallerie"
+participation: "Participation"
+contact: "Contact"
+
+# Wrapper
+headTitle: "Congrès Gen 2016"
+mainTitle: "CONGRES GEN 2 INTERNATIONAL"
+eventDate: "17 - 20 Novembre 2016"
+eventLocation: "Castel Gandolfo, Italie"
+registerNow: "S'inscrire"
+closingMessage: "Nous attendons vos réponses avec joie!"
+
+# Event Description
+eventDescription: "Comme vous le savez, cette année il y aura <b>un congrès Gen 2 international garçons et filles </b>. Il aura lieu au Centre Mariapoli de Castelgandolfo (congrès qui se réalise chaque 3 ans). Ça sera une belle occasion de se retrouver de tout le monde et de vivre une forte expérience de Gen–Opera. Il nous semble merveilleux de pouvoir réaliser ce moment tous ensemble dans l’année où tout l’Opera approfondit la réalité de <i>'Jésus Abandonné'</i>. Rappelez vous les paroles de Chiara <i>'Ce sera la deuxième génération qui fera écho le cri de Jésus Abandonné aux extrémités de la terre ... Et dans ce cri le monde entier aura de l’espoir.'</i>"
+eventWillStartIn: "Le congrès commence dans"
+
+# Countdown
+countDownDays: "Jours"
+countDownHours: "Heures"
+countDownMinutes: "Minutes"
+countDownSeconds: "Secondes"
+
+countDownDay: "Jour"
+countDownHour: "Heure"
+countDownMinute: "Minute"
+countDownSecond: "Seconde"
+
+addToMyCalendar: "Ajouter à mon calendrier"
+calendarDescription: "Congrès Gen International avec les gen garçons et filles du monde entier."
+
+# Special Guests
+specialGuests : "Invités d'honneur"
+emmausTitle: "Président"
+
+# The Schedule
+theSchedule: "Le Programme"
+Day: "Jour"
+
+# And More ..
+andMoreTitle: "Et Plus ..."
+
+# Chiara Price
+ChiaraPriceTitle: "Prix de l'Education Pour La Paix Attribué à Chiara"
+ChiaraPriceMessage_1: "Pour ceux/celles souhaitent participer à l'évèvement du 20ème anniversaire de la remise du prix de l'éducation Pour la paix attribué à Chiara, at <strong>l'UNESCO à Paris</strong>, ce sera possible."
+ChiaraPriceMessage_2: "L'arrivée à Paris devrait se faire la nuit du <strong>14 Novembre</strong>. Départ pour Rome soit la nuit du 15 novembre ou au cours de la journée du 16 novembre."
+ChiaraPriceMessage_3: "Nous vous prions de nous faire savoir si vous êtes intéressé par cette proposition afin que nous puissions vous envoyer plus de détails."
+
+# Post Congress School
+postCongressSchoolTitle: "Ecole Post-Congrès"
+postCongressSchoolMessage: "Après le congrès international, nous avons prévu une école gen 'volante' <strong>du 21 au 27 novembre</strong>. La participation pour cette école est précisée ci-bas."
+postCongressSchoolPrice_1: "Europe de l'Ouest/Centrale - Gen and Assistants: € 391"
+postCongressSchoolPrice_2: "Europe de l'Est/Contin. Extraeuropéens - Gen: € 371"
+postCongressSchoolPrice_3: "Europe de l’Est/Contin. Extraeuropéens - Assistants: € 376"
+
+regiterPostCongressSchool: "S'inscrire"
+
+
+
+# Participation
+EasternEurope_1: "Europe de l'Est/Contin. Extraeuropéens - Gen"
+EasternEurope_2: "Europe de l’Est/Contin. Extraeuropéens - Assistants"
+WesternEurope: "Europe de l'Ouest/Centrale - Gen and Assistants"
+ParticipationMessage_1: "Le voyage à Rome en bus du 20 novembre coûtera 16€."
+ParticipationMessage_2: "Comme Centre Gen, nous vous demanderons une participation de 10€ par personne pour les zones de l'Europe de l'Ouest et de 5€ pour les zones de l'Europe de Est, à donner directement à Ramiro ou Cris du Centre Gen (pas le Centre Mariapolis)"
+
+
+# FAQ
+faqTitle: "Foire Aux Questions"
+faqQuestion_1: "Comment arriver au lieu du congrès?"
+faqAnswer_1: "La carte et le détail des contacts sont présents dans la section contact. N'hésitez pas à nous contacter."
+faqQuestion_2: "Comment est organisé le logement?"
+faqAnswer_2: "Le logement est inclu dans les frais de participation. Nous remercions le Centre Mariapolis qui nous accueillera pendant toute la durée du congrès."
+faqQuestion_3: "Dans quel langue se déroulera le congrès?"
+faqAnswer_3: "Les langues 'offcielles' du congrès seront l'Italien et l'Anglais. Nous demandons à tous (Italiens compris) de ramener des écouteurs."
+faqQuestion_4: "Comment ça se passe pour les visas pour les résidents non-Européens"
+faqAnswer_4: "Nous vous demandons de nous envoyer le plus tôt possible votre inscription. Il faut au moins 2 mois pour l'obtention d'un visa."
+
+# Contact
+contactVenue: "CONTACT"
+
+# Address
+addressVenue: "ADDRESSE"
+detailsArrival: "Arrivée: 16 Nov au soir, avant 22:00"
+
+# Invitation
+invitMessage_1: "RENCONTRONS-NOUS TOUS ENSEMBLE"
+invitMessage_2: "NOUS T'ATTENDONS"
