@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from jinja2 import Template
 import yaml
 import os
